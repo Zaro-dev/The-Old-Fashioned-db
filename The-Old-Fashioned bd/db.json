@@ -5,76 +5,87 @@
         "yearFoundation": 1866,
         "estOn": "Lynchburg, Tennessee, USA",
         "id": "a1b2c3",
-        "description": "Fundada en 1866 en Lynchburg, Tennessee, Jack Daniel's es conocida por ser la primera destilería registrada en Estados Unidos. Su sello distintivo es el proceso de filtración a través de carbón de arce, que le da su sabor característico. La marca ha crecido hasta convertirse en una de las más reconocidas y populares del mundo."
+        "description": "Fundada en 1866 en Lynchburg, Tennessee, Jack Daniel's es conocida por ser la primera destilería registrada en Estados Unidos. Su sello distintivo es el proceso de filtración a través de carbón de arce, que le da su sabor característico. La marca ha crecido hasta convertirse en una de las más reconocidas y populares del mundo.",
+        "image": "https://res.cloudinary.com/dnrou1sdb/image/upload/v1721652635/logo-jack-daniel_s_girpar.jpg"
     },
     {
         "name": "Jameson",
         "yearFoundation": 1780,
         "estOn": "Dublin, Ireland",
         "id": "d4e5f6",
-        "description": "Establecida en 1780 en Dublin, Irlanda, Jameson es famosa por su suave y equilibrado sabor. Fundada por John Jameson, la destilería se destacó por su proceso triple destilación que contribuye a su suavidad. Jameson es una de las marcas de whiskey irlandés más vendidas a nivel global."
+        "description": "Establecida en 1780 en Dublin, Irlanda, Jameson es famosa por su suave y equilibrado sabor. Fundada por John Jameson, la destilería se destacó por su proceso triple destilación que contribuye a su suavidad. Jameson es una de las marcas de whiskey irlandés más vendidas a nivel global.",
+        "image": "https://res.cloudinary.com/dnrou1sdb/image/upload/v1721652935/JJ_and_S-logo-B3A00E5807-seeklogo.com_xkyl33.png"
     },
     {
         "name": "Macallan",
         "yearFoundation": 1824,
         "estOn": "Craigellachie, Scotland",
         "id": "g7h8i9",
-        "description": "Desde su fundación en 1824 en Craigellachie, Escocia, Macallan ha sido sinónimo de calidad en el mundo del whisky escocés. Conocida por sus whiskies envejecidos en barricas de jerez, Macallan se destaca por su riqueza y complejidad. La marca ha ganado numerosos premios y es muy apreciada por los conocedores."
+        "description": "Desde su fundación en 1824 en Craigellachie, Escocia, Macallan ha sido sinónimo de calidad en el mundo del whisky escocés. Conocida por sus whiskies envejecidos en barricas de jerez, Macallan se destaca por su riqueza y complejidad. La marca ha ganado numerosos premios y es muy apreciada por los conocedores.",
+        "image": "https://res.cloudinary.com/dnrou1sdb/image/upload/v1721652963/download_aaacv6.jpg"
     },
     {
         "name": "Glenfiddich",
         "yearFoundation": 1887,
         "estOn": "Dufftown, Scotland",
         "id": "j0k1l2",
-        "description": "Glenfiddich, fundada en 1887 en Dufftown, Escocia, es una de las destilerías más importantes y de mayor producción del mundo. Su nombre, que significa 'valle de los ciervos', es conocido por sus whiskies de malta única. Glenfiddich ha sido un líder en la innovación y ha mantenido su carácter tradicional."
+        "description": "Glenfiddich, fundada en 1887 en Dufftown, Escocia, es una de las destilerías más importantes y de mayor producción del mundo. Su nombre, que significa 'valle de los ciervos', es conocido por sus whiskies de malta única. Glenfiddich ha sido un líder en la innovación y ha mantenido su carácter tradicional.",
+        "image":"https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653209/e0f53e6d7f873da2607da198cf488559_gkvmo0.png"
     },
     {
         "name": "Maker's Mark",
         "yearFoundation": 1953,
         "estOn": "Loretto, Kentucky, USA",
         "id": "m3n4o5",
-        "description": "Fundada en 1953 en Loretto, Kentucky, Maker's Mark se destaca por su bourbon artesanal, elaborado con una receta única que incluye trigo en lugar de centeno. Su icónica botella con cera roja es un símbolo de calidad y atención al detalle. La marca es conocida por su sabor suave y su enfoque en la producción a pequeña escala."
+        "description": "Fundada en 1953 en Loretto, Kentucky, Maker's Mark se destaca por su bourbon artesanal, elaborado con una receta única que incluye trigo en lugar de centeno. Su icónica botella con cera roja es un símbolo de calidad y atención al detalle. La marca es conocida por su sabor suave y su enfoque en la producción a pequeña escala.",
+        "image":"https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653243/download_o12qw5.png"
     },
     {
         "name": "Yamazaki",
         "yearFoundation": 1923,
         "estOn": "Shimamoto, Osaka, Japan",
         "id": "p6q7r8",
-        "description": "Yamazaki, establecida en 1923 en Shimamoto, Japón, es la primera destilería de whisky en Japón. Fundada por Shinjiro Torii, la marca se ha hecho famosa por su compromiso con la calidad y la perfección en el whisky japonés. Sus whiskies son apreciados por su equilibrio y elegancia."
+        "description": "Yamazaki, establecida en 1923 en Shimamoto, Japón, es la primera destilería de whisky en Japón. Fundada por Shinjiro Torii, la marca se ha hecho famosa por su compromiso con la calidad y la perfección en el whisky japonés. Sus whiskies son apreciados por su equilibrio y elegancia.",
+        "image":"https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653320/download_bkktve.png"
     },
     {
         "name": "Chivas Regal",
         "yearFoundation": 1801,
         "estOn": "Keith, Scotland",
         "id": "s9t0u1",
-        "description": "Chivas Regal fue fundada en 1801 en Keith, Escocia, y es conocida por sus whiskies blended de lujo. La marca se especializa en whiskies de malta y grano de alta calidad, y su mezcla de 12, 18 y 25 años ha sido aclamada por su sofisticación y profundidad de sabor."
+        "description": "Chivas Regal fue fundada en 1801 en Keith, Escocia, y es conocida por sus whiskies blended de lujo. La marca se especializa en whiskies de malta y grano de alta calidad, y su mezcla de 12, 18 y 25 años ha sido aclamada por su sofisticación y profundidad de sabor.",
+        "image":"https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653359/download_aqna7k.jpg"
     },
     {
         "name": "Wild Turkey",
         "yearFoundation": 1869,
         "estOn": "Lawrenceburg, Kentucky, USA",
         "id": "v2w3x4",
-        "description": "Wild Turkey, establecida en 1869 en Lawrenceburg, Kentucky, es famosa por su bourbon robusto y de alta graduación. La marca se destaca por sus whiskies de sabor intenso y característico, con un enfoque en la tradición y la calidad en la producción del bourbon."
+        "description": "Wild Turkey, establecida en 1869 en Lawrenceburg, Kentucky, es famosa por su bourbon robusto y de alta graduación. La marca se destaca por sus whiskies de sabor intenso y característico, con un enfoque en la tradición y la calidad en la producción del bourbon.",
+        "image":"https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653394/download_vt7xw2.png"
     },
     {
         "name": "Bushmills",
         "yearFoundation": 1608,
         "estOn": "Bushmills, Northern Ireland",
         "id": "y5z6a7",
-        "description": "Bushmills, fundada en 1608 en Bushmills, Irlanda del Norte, es una de las destilerías más antiguas del mundo. La marca es conocida por su whisky irlandés suave y su tradición en la producción. Su historia abarca más de cuatro siglos, con una reputación sólida en la elaboración de whiskies de alta calidad."
+        "description": "Bushmills, fundada en 1608 en Bushmills, Irlanda del Norte, es una de las destilerías más antiguas del mundo. La marca es conocida por su whisky irlandés suave y su tradición en la producción. Su historia abarca más de cuatro siglos, con una reputación sólida en la elaboración de whiskies de alta calidad.",
+        "image": "https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653480/download_emxnjm.png"
     },
     {
         "name": "Lagavulin",
         "yearFoundation": 1816,
         "estOn": "Islay, Scotland",
         "id": "b8c9d0",
-        "description": "Lagavulin, fundada en 1816 en la isla de Islay, Escocia, es famosa por su whisky de malta ahumado y turba. Con una fuerte presencia en el mercado de whiskies de malta de Islay, Lagavulin es conocida por sus intensos sabores y su compromiso con la calidad tradicional."
+        "description": "Lagavulin, fundada en 1816 en la isla de Islay, Escocia, es famosa por su whisky de malta ahumado y turba. Con una fuerte presencia en el mercado de whiskies de malta de Islay, Lagavulin es conocida por sus intensos sabores y su compromiso con la calidad tradicional.",
+        "image": "https://res.cloudinary.com/dnrou1sdb/image/upload/v1721653540/download_kkeikh.png"
     }
 ],
 
 "bottles": [
     {
         "name": "Jack Daniel's Old No. 7",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652785/Jack_Daniel_s_Old_No._7_ywruet.jpg", 
         "type": "Tennessee Whiskey",
         "age": null,
         "origin": "Lynchburg, Tennessee, USA",
@@ -86,6 +97,7 @@
     },
     {
         "name": "Jack Daniel's Single Barrel",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652785/Jack_Daniel_s_Single_Barrel_eqodf2.jpg",
         "type": "Tennessee Whiskey",
         "age": null,
         "origin": "Lynchburg, Tennessee, USA",
@@ -97,6 +109,7 @@
     },
     {
         "name": "Jack Daniel's Gentleman Jack",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652784/Jack_Daniel_s_Gentleman_Jack_ncyhwu.jpg",
         "type": "Tennessee Whiskey",
         "age": null,
         "origin": "Lynchburg, Tennessee, USA",
@@ -108,6 +121,7 @@
     },
     {
         "name": "Jameson Irish Whiskey",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652786/Jameson_Irish_Whiskey_hqosla.jpg",
         "type": "Blended Irish Whiskey",
         "age": null,
         "origin": "Dublin, Ireland",
@@ -119,6 +133,7 @@
     },
     {
         "name": "Jameson Black Barrel",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652785/Jameson_Black_Barrel_pi0yxf.jpg",
         "type": "Blended Irish Whiskey",
         "age": null,
         "origin": "Dublin, Ireland",
@@ -130,6 +145,7 @@
     },
     {
         "name": "Jameson 18 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652785/Jameson_18_Year_Old_oomxgh.jpg",
         "type": "Blended Irish Whiskey",
         "age": 18,
         "origin": "Dublin, Ireland",
@@ -141,6 +157,7 @@
     },
     {
         "name": "Macallan 12 Year Old Sherry Oak",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652787/Macallan_12_Year_Old_Sherry_Oak_pshdug.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 12,
         "origin": "Craigellachie, Scotland",
@@ -152,6 +169,7 @@
     },
     {
         "name": "Macallan 18 Year Old Sherry Oak",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652787/Macallan_18_Year_Old_Sherry_Oak_kn2vvb.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 18,
         "origin": "Craigellachie, Scotland",
@@ -163,6 +181,7 @@
     },
     {
         "name": "Macallan Double Cask Gold",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652787/Macallan_Double_Cask_Gold_yamyj2.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": null,
         "origin": "Craigellachie, Scotland",
@@ -174,6 +193,7 @@
     },
     {
         "name": "Glenfiddich 12 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652784/Glenfiddich_12_Year_Old_izvsob.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 12,
         "origin": "Dufftown, Scotland",
@@ -185,6 +205,7 @@
     },
     {
         "name": "Glenfiddich 15 Year Old Solera",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652784/Glenfiddich_15_Year_Old_Solera_aqkhdv.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 15,
         "origin": "Dufftown, Scotland",
@@ -196,6 +217,7 @@
     },
     {
         "name": "Glenfiddich 21 Year Old Reserva",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652784/Glenfiddich_21_Year_Old_Reserva_ufchke.webp",
         "type": "Single Malt Scotch Whisky",
         "age": 21,
         "origin": "Dufftown, Scotland",
@@ -207,6 +229,7 @@
     },
     {
         "name": "Maker's Mark Kentucky Straight Bourbon",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652788/Maker_s_Mark_Kentucky_Straight_Bourbon_tmybts.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Loretto, Kentucky, USA",
@@ -218,6 +241,7 @@
     },
     {
         "name": "Maker's Mark 46",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652788/Maker_s_Mark_46_bypfhu.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Loretto, Kentucky, USA",
@@ -229,6 +253,7 @@
     },
     {
         "name": "Maker's Mark Cask Strength",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652788/Maker_s_Mark_Cask_Strength_arctak.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Loretto, Kentucky, USA",
@@ -240,6 +265,7 @@
     },
     {
         "name": "Yamazaki 12 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652789/Yamazaki_12_Year_Old_yjsbam.jpg",
         "type": "Single Malt Japanese Whisky",
         "age": 12,
         "origin": "Shimamoto, Osaka, Japan",
@@ -251,6 +277,7 @@
     },
     {
         "name": "Yamazaki 18 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652789/Yamazaki_18_Year_Old_exqiow.jpg",
         "type": "Single Malt Japanese Whisky",
         "age": 18,
         "origin": "Shimamoto, Osaka, Japan",
@@ -262,6 +289,7 @@
     },
     {
         "name": "Yamazaki Distiller's Reserve",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652790/Yamazaki_Distiller_s_Reserve_cl0dsz.jpg",
         "type": "Single Malt Japanese Whisky",
         "age": null,
         "origin": "Shimamoto, Osaka, Japan",
@@ -273,6 +301,7 @@
     },
     {
         "name": "Chivas Regal 12 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Chivas_Regal_12_Year_Old_r4jlk2.jpg",
         "type": "Blended Scotch Whisky",
         "age": 12,
         "origin": "Keith, Scotland",
@@ -284,6 +313,7 @@
     },
     {
         "name": "Chivas Regal 18 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Chivas_Regal_18_Year_Old_dynvmw.jpg",
         "type": "Blended Scotch Whisky",
         "age": 18,
         "origin": "Keith, Scotland",
@@ -295,6 +325,7 @@
     },
     {
         "name": "Chivas Regal 25 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Chivas_Regal_25_Year_Old_g5kbao.jpg",
         "type": "Blended Scotch Whisky",
         "age": 25,
         "origin": "Keith, Scotland",
@@ -306,6 +337,7 @@
     },
     {
         "name": "Wild Turkey 101",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652788/Wild_Turkey_101_shq5zf.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Lawrenceburg, Kentucky, USA",
@@ -317,6 +349,7 @@
     },
     {
         "name": "Wild Turkey Rare Breed",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652789/Wild_Turkey_Rare_Breed_kevmo0.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Lawrenceburg, Kentucky, USA",
@@ -328,6 +361,7 @@
     },
     {
         "name": "Wild Turkey Kentucky Spirit",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652788/Wild_Turkey_Kentucky_Spirit_gbxekf.jpg",
         "type": "Bourbon Whiskey",
         "age": null,
         "origin": "Lawrenceburg, Kentucky, USA",
@@ -339,6 +373,7 @@
     },
     {
         "name": "Bushmills Original",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Bushmills_Original_lazzm8.jpg",
         "type": "Blended Irish Whiskey",
         "age": null,
         "origin": "Bushmills, Northern Ireland",
@@ -350,6 +385,7 @@
     },
     {
         "name": "Bushmills Black Bush",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Bushmills_Black_Bush_hlljga.jpg",
         "type": "Blended Irish Whiskey",
         "age": null,
         "origin": "Bushmills, Northern Ireland",
@@ -361,6 +397,7 @@
     },
     {
         "name": "Bushmills 21 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652783/Bushmills_21_Year_Old_aeq6ut.jpg",
         "type": "Single Malt Irish Whiskey",
         "age": 21,
         "origin": "Bushmills, Northern Ireland",
@@ -372,6 +409,7 @@
     },
     {
         "name": "Lagavulin 16 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652786/Lagavulin_16_Year_Old_mekrem.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 16,
         "origin": "Islay, Scotland",
@@ -383,6 +421,7 @@
     },
     {
         "name": "Lagavulin 8 Year Old",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652786/Lagavulin_8_Year_Old_y64zbp.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": 8,
         "origin": "Islay, Scotland",
@@ -394,6 +433,7 @@
     },
     {
         "name": "Lagavulin Distillers Edition",
+        "image": "https://res.cloudinary.com/dmh3y2onw/image/upload/v1721652787/Lagavulin_Distillers_Edition_mvwexq.jpg",
         "type": "Single Malt Scotch Whisky",
         "age": null,
         "origin": "Islay, Scotland",
